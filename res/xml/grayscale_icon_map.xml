@@ -647,7 +647,7 @@
     <icon
         drawable="@drawable/camera"
         name="Camera"
-        package="org.lineageos.snap" />
+        package="org.lineageos.aperture" />
     <icon
         drawable="@drawable/camera_roll"
         name="Camera Roll"
